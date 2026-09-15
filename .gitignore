@@ -6,3 +6,6 @@ dist/
 build/
 *.egg-info/
 
+
+BRIEF-CODEX.md
+logs/
